@@ -1,11 +1,12 @@
 import Logo from "/logo-luciana.png"
+import Perfil from "/perfil.png"
 
 export default function App() {
   return (
     <div className="font-sans text-gray-800">
       {/* Hero section */}
         <section className="overflow-hidden">
-          <div className="mx-auto max-w-7xl pt-10 px-6 lg:flex lg:px-8">
+          <div className="mx-auto max-w-7xl pt-10 px-6 lg:flex lg:px-8 lg:items-end">
             <div className="mx-auto max-w-2xl shrink-0 lg:mx-0">
               <img
                 alt="Luciana Plutarco logo"
@@ -27,16 +28,12 @@ export default function App() {
                 </a>
               </div>
             </div>
-            <div className="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:mt-0 lg:mr-0 lg:ml-10 lg:max-w-none lg:flex-none xl:ml-32">
-              <div className="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
+            <div className="">        
                 <img
                   alt="App screenshot"
-                  src="https://tailwindcss.com/plus-assets/img/component-images/dark-project-app-screenshot.png"
-                  width={2432}
-                  height={1442}
-                  className="w-304 rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10"
+                  src={Perfil}
+                  className="w-70 mx-auto"
                 />
-              </div>
             </div>
           </div>
         </section>
