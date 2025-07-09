@@ -65,7 +65,7 @@ export default function App() {
         <h2 className="text-2xl font-semibold mb-6 text-amber-950">Contato</h2>
         <p>
           <strong>WhatsApp:</strong>{" "}
-          <a href="https://wa.me/5599999999999" className="text-teal-600">
+          <a href="https://wa.me/message/5ZDAZSCW6IOMC1" className="text-teal-600">
             +55 85 98576-7080
           </a>
         </p>
