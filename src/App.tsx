@@ -71,7 +71,6 @@ export default function App() {
         </p>
         <p>
           <strong>Endereço:</strong> Rua Carolina Sucupira, 345 - Sala 16 - Fortaleza/CE<br/>
-          <strong>Endereço 2:</strong> Av Pe Antonio Tomás, 650
         </p>
         <p>
           <strong>Email:</strong> lpnmlb@hotmail.com
